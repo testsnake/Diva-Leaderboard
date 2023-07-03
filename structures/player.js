@@ -1,6 +1,8 @@
 class Player {
+    discordID;
     matches = [];
     enabledSongPacks = [];
+    blockedSongPacks = [];
     elo;
 
     constructor(discordID, initElo) {
