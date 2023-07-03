@@ -1,0 +1,14 @@
+{
+  "name": "diva-leaderboard",
+  "version": "1.0.0",
+  "description": "Discord.js Ranked Leaderboard for Project DIVA",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "testsnake",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  }
+}
